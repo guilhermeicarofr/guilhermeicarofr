@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Guilherme Ícaro and i'm a 23yo aspiring software enginner 🔭</p>
+<p align="left">My name is Guilherme Ícaro and i'm a 23yo aspiring software enginner 🔭</p>
 <p align="top">
   <img src="https://github-readme-stats.vercel.app/api?username=guilhermeicarofr&show_icons=true&locale=en" alt="guilhermeicarofr" />
 <p/>
