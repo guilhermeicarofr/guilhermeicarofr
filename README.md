@@ -37,10 +37,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" height="40" width="52" alt="github logo" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" height="40" width="52" alt="heroku logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="40" width="52" alt="github logo" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40" width="52" alt="github logo" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" height="40" width="52" alt="github logo" />
 </div>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeicarofr&langs_count=6">
