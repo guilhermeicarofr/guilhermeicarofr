@@ -17,17 +17,18 @@
 
 <p align="left">
   📚 I'm currently studying in a fullstack web development bootcamp at Driven Education <br>
-  🤖 I am a Mechatronics technician <br>
+  🧹 To write clean, organized and readable code is always a key goal for me <br>
+  🤖 I have a degree as a Mechatronics Technician <br>
   🐠 My loyal companion is a betta fish called Elvis <br>
   🥋 I love combat sports and I am a Brazilian Jiu-Jitsu amateur athlete <br>
-  🛼 I've been learning how to roller skate (and getting to know the floor from pretty close)
+  🛼 Recently I've been training to ride roller skates (and getting to know the floor from pretty close)
 </p>
   
-### Contact me on LinkedIn:
+#### Contact me on LinkedIn:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeicarorealb92719162/)
 
 <p align="left">
-  📫 You can reach me by email at: <strong>guilhermeicarofr@gmail.com</strong> <br>  
+  📫 You can also reach me by email at: <strong>guilhermeicarofr@gmail.com</strong> <br>  
   📷 Or you can find me on social media under: <strong>@gui_icarofr</strong>
 </p>
 
