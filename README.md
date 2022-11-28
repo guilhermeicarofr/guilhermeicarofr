@@ -17,15 +17,15 @@
 
 <p align="left">
   📚 I'm currently studying in a fullstack web development bootcamp at Driven Education <br>
-  🧹 To write clean, organized and readable code is always a key goal for me <br>
-  🤖 I have a degree as a Mechatronics Technician <br>
+  🧹 To write clean, organized and readable code is a key goal for me <br>
+  🤖 I have a technical degree as a Mechatronics Technician <br>
+  💾 Computers and technology are a passion from childhood <br>
   🐠 My loyal companion is a betta fish called Elvis <br>
-  🥋 I love combat sports and I am a Brazilian Jiu-Jitsu amateur athlete <br>
-  🛼 Recently I've been training to ride roller skates (and getting to know the floor from pretty close)
+  🥋 I love combat sports and I am a Brazilian Jiu-Jitsu amateur athlete
 </p>
   
-#### Contact me on LinkedIn:
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeicarorealb92719162/)
+#### Contact me on LinkedIn: [ 🇧🇷 | 🇺🇸 ]
+  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeicarorealb92719162/)
 
 <p align="left">
   📫 You can also reach me by email at: <strong>guilhermeicarofr@gmail.com</strong> <br>  
@@ -61,6 +61,8 @@
   <img  alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img  alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />  
 </div>
+
+
 
 
 
