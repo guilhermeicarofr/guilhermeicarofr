@@ -16,7 +16,7 @@
 <img align="right" height="300em" width="300em" style="border-radius:50em" src="https://github.com/guilhermeicarofr/guilhermeicarofr/blob/main/de1b2e36-8d91-4d7d-ae9d-2919c1a1d124.jpg"/>
 
 <p align="left">
-  📚 I'm currently studying in a fullstack web development bootcamp at Driven Education <br>
+  📚 I'm currently studying in a fullstack web dev bootcamp at Driven Education <br>
   🧹 To write clean, organized and readable code is a key goal for me <br>
   🤖 I have a technical degree as a Mechatronics Technician <br>
   💾 Computers and technology are a passion from childhood <br>
