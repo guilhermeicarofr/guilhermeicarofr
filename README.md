@@ -24,7 +24,7 @@
   🥋 I love combat sports and I am a Brazilian Jiu-Jitsu amateur athlete
 </p>
   
-#### Contact me: [ 🇧🇷 | 🇺🇸 ]
+#### Contact me on: [ 🇧🇷 | 🇺🇸 ]
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeicarorealb92719162/)
 
 <p align="left">
