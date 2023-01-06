@@ -28,6 +28,7 @@
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeicarofr/?locale=en_US)
 
 <p align="left">
+  📝 Check my CV on this same repository <br>
   📫 You can also reach me by email at: <strong>guilhermeicarofr@gmail.com</strong> <br>  
   📷 Or you can find me on social media under: <strong>@gui_icarofr</strong>
 </p>
