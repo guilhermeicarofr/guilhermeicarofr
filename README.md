@@ -25,7 +25,7 @@
 </p>
   
 #### Contact me on: [ 🇧🇷 | 🇺🇸 ]
-  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeicarorealb92719162/)
+  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeicarofr/?locale=en_US)
 
 <p align="left">
   📫 You can also reach me by email at: <strong>guilhermeicarofr@gmail.com</strong> <br>  
