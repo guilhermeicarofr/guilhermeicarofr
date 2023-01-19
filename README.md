@@ -12,9 +12,10 @@
 
 ## About me
 
-<img align="right" height="300em" width="300em" style="border-radius:50em" src="https://github.com/guilhermeicarofr/guilhermeicarofr/blob/main/de1b2e36-8d91-4d7d-ae9d-2919c1a1d124.jpg"/>
+<img align="right" height="200em" width="200em" style="border-radius:50em" src="https://github.com/guilhermeicarofr/guilhermeicarofr/blob/main/de1b2e36-8d91-4d7d-ae9d-2919c1a1d124.jpg"/>
 
 <p align="left">
+  🛠️ I've been developing an application to create and manage Jiu-Jitsu Tournaments <br>
   📚 I'm currently studying in a fullstack web dev bootcamp at Driven Education <br>
   🧹 To write clean, organized and readable code is a key goal for me <br>
   🤖 I have a technical degree as a Mechatronics Technician <br>
