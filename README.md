@@ -2,7 +2,7 @@
 
 <img align="right" src="https://wakatime.com/badge/user/9114b0b5-8544-4bdd-aa56-487851877f58.svg" />
 <p align="left">
-  I'm <strong>Guilherme Ícaro</strong>, a fullstack developer and software enginner 🔭
+  I'm <strong>Guilherme Ícaro</strong>, a fullstack developer and software engineer 🔭
 </p>
 
 <div align="left">
