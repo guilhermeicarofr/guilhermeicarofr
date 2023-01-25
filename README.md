@@ -48,6 +48,8 @@
   <img alt="jest" src="https://img.shields.io/badge/Jest-944058?style=for-the-badge&logo=Jest&logoColor=white" />
   <img alt="expressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="styledcomponents" src="https://img.shields.io/badge/styled--components-e58e7d?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img alt="docker" src="https://img.shields.io/badge/Docker-2392e6?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="aws" src="https://img.shields.io/badge/AWS-f79400?style=for-the-badge&logo=amazon&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/NPM-d74b61?style=for-the-badge&logo=npm" />
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
