@@ -7,7 +7,7 @@
 
 <div align="left">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guilhermeicarofr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guilhermeicarofr&layout=compact&langs_count=8&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guilhermeicarofr&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
 ## About me
@@ -15,13 +15,14 @@
 <img align="right" height="200em" width="200em" style="border-radius:50em" src="https://github.com/guilhermeicarofr/guilhermeicarofr/blob/main/de1b2e36-8d91-4d7d-ae9d-2919c1a1d124.jpg"/>
 
 <p align="left">
-  🛠️ I've been developing an application to create and manage Jiu-Jitsu Tournaments <br>
-  📚 I'm currently studying in a fullstack web dev bootcamp at Driven Education <br>
-  🧹 To write clean, organized and readable code is a key goal for me <br>
+  🛠️ I've been developing an app to create and manage Jiu-Jitsu Tournaments <br>
+  ☕ Recently i started learning Java and its actually very nice <br>
+  📚 I completed a Full-Stack WebDev bootcamp at Driven Education <br>
   🤖 I have a technical degree as a Mechatronics Technician <br>
+  🧹 To write clean, organized and readable code is a key goal for me <br>
   💾 Computers and technology are a passion from childhood <br>
   🐠 My loyal companion is a betta fish called Elvis <br>
-  🥋 I love combat sports and I am a Brazilian Jiu-Jitsu amateur athlete
+  🥋 I love combat sports and I am a Brazilian Jiu-Jitsu athlete
 </p>
   
 #### Contact me on: [ 🇧🇷 | 🇺🇸 ]
@@ -49,6 +50,7 @@
   <img alt="expressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="styledcomponents" src="https://img.shields.io/badge/styled--components-e58e7d?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <img alt="docker" src="https://img.shields.io/badge/Docker-2392e6?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="javaspring" src="https://img.shields.io/badge/Java+Spring-FFFEEF?style=for-the-badge&logo=spring&logoColor=6cb52d" />
   <img alt="aws" src="https://img.shields.io/badge/AWS-f79400?style=for-the-badge&logo=amazon&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/NPM-d74b61?style=for-the-badge&logo=npm" />
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
