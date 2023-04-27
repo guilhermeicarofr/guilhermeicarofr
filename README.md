@@ -12,16 +12,14 @@
 
 ## About me
 
-<img align="right" height="200em" width="200em" style="border-radius:50em" src="https://github.com/guilhermeicarofr/guilhermeicarofr/blob/main/de1b2e36-8d91-4d7d-ae9d-2919c1a1d124.jpg"/>
+<img align="right" height="150em" width="150em" style="border-radius:50em" src="https://github.com/guilhermeicarofr/guilhermeicarofr/blob/main/de1b2e36-8d91-4d7d-ae9d-2919c1a1d124.jpg"/>
 
 <p align="left">
-  🛠️ I've been developing an app to create and manage Jiu-Jitsu Tournaments <br>
   ☕ Recently i started learning Java and its actually very nice <br>
   📚 I completed a Full-Stack WebDev bootcamp at Driven Education <br>
   🤖 I have a technical degree as a Mechatronics Technician <br>
   🧹 To write clean, organized and readable code is a key goal for me <br>
   💾 Computers and technology are a passion from childhood <br>
-  🐠 My loyal companion is a betta fish called Elvis <br>
   🥋 I love combat sports and I am a Brazilian Jiu-Jitsu athlete
 </p>
   
