@@ -42,13 +42,15 @@
   <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="redis" src="https://img.shields.io/badge/Redis-d12b1f?style=for-the-badge&logo=redis&logoColor=white" />
   <img alt="prisma" src="https://img.shields.io/badge/Prisma-0c3249?style=for-the-badge&logo=Prisma&logoColor=white" />
-  <img alt="jest" src="https://img.shields.io/badge/Jest-944058?style=for-the-badge&logo=Jest&logoColor=white" />
-  <img alt="expressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img alt="styledcomponents" src="https://img.shields.io/badge/styled--components-e58e7d?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <img alt="docker" src="https://img.shields.io/badge/Docker-2392e6?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="expressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="nest" src="https://img.shields.io/badge/NestJS-0e0e10?style=for-the-badge&logo=nestjs&logoColor=e0234e" />
+  <img alt="next" src="https://img.shields.io/badge/NextJS-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=2e2e2e" />
+  <img alt="jest" src="https://img.shields.io/badge/Jest-944058?style=for-the-badge&logo=Jest&logoColor=white" />
+  <img alt="redis" src="https://img.shields.io/badge/Redis-d12b1f?style=for-the-badge&logo=redis&logoColor=white" />
   <img alt="javaspring" src="https://img.shields.io/badge/Java+Spring-FFFEEF?style=for-the-badge&logo=spring&logoColor=6cb52d" />
+  <img alt="styled" src="https://img.shields.io/badge/styled--components-e58e7d?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img alt="aws" src="https://img.shields.io/badge/AWS-f79400?style=for-the-badge&logo=amazon&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/NPM-d74b61?style=for-the-badge&logo=npm" />
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -63,7 +65,7 @@
   <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-d64613?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-  <img alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />  
+  <img alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
   <img alt="discord" src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" />
   <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
