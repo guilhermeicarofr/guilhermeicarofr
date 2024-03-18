@@ -16,7 +16,7 @@
   ☕ Trabalho com Desenvolvimento Web em Java e JavaScript e seus Frameworks na <strong>Memory Software</strong> <br>
   📚 Concluí um Bootcamp em Desenvolvimento Web Full-Stack pela Driven Education <br>
   🤖 Sou Técnico em Mecatrônica pelo CEFET-MG e já estive envolvido com robótica de competição <br>
-  🧪 Atualmente estou mais ativo no GitLab, então desculpem a ausência <br>
+  🧪 Atualmente estou mais ativo no GitLab, aqui se encontram alguns projetos pessoais <br>
   🧹 Escrever código limpo, organizado e legível é fundamental para mim <br>
   💾 Computação e Tecnologia são uma paixão desde a infância <br>
   🥋 Adoro esportes de combate e sou atleta amador de Jiu-Jitsu
