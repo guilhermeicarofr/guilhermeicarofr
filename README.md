@@ -1,8 +1,8 @@
-# Hi there 👨‍💻
+# Bem vindo ao meu perfil 👨‍💻
 
 <img align="right" src="https://wakatime.com/badge/user/9114b0b5-8544-4bdd-aa56-487851877f58.svg" />
 <p align="left">
-  I'm <strong>Guilherme Icaro</strong>, a fullstack developer and software engineer 🔭
+  Eu sou <strong>Guilherme Icaro</strong>, Desenvolvedor Web Full-Stack e Programador 🔭
 </p>
 
 <div align="left">
@@ -10,37 +10,37 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guilhermeicarofr&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
-## About me
-
-<img align="right" height="150em" width="150em" style="border-radius:50em" src="https://github.com/guilhermeicarofr/guilhermeicarofr/blob/main/de1b2e36-8d91-4d7d-ae9d-2919c1a1d124.jpg"/>
+## Sobre mim
 
 <p align="left">
-  ☕ Recently i started learning Java and its actually very nice <br>
-  📚 I completed a Full-Stack WebDev bootcamp at Driven Education <br>
-  🤖 I have a technical degree as a Mechatronics Technician <br>
-  🧹 To write clean, organized and readable code is a key goal for me <br>
-  💾 Computers and technology are a passion from childhood <br>
-  🥋 I love combat sports and I am a Brazilian Jiu-Jitsu athlete
+  ☕ Trabalho com Desenvolvimento Web em Java e JavaScript e seus Frameworks na <strong>Memory Software</strong> <br>
+  📚 Concluí um Bootcamp em Desenvolvimento Web Full-Stack pela Driven Education <br>
+  🤖 Sou Técnico em Mecatrônica pelo CEFET-MG e já estive envolvido com robótica de competição <br>
+  🧪 Atualmente estou mais ativo no GitLab, então desculpem a ausência <br>
+  🧹 Escrever código limpo, organizado e legível é fundamental para mim <br>
+  💾 Computação e Tecnologia são uma paixão desde a infância <br>
+  🥋 Adoro esportes de combate e sou atleta amador de Jiu-Jitsu
 </p>
   
-#### Contact me on: [ 🇧🇷 | 🇺🇸 ]
-  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeicarofr/?locale=en_US)
+#### Como falar comigo: [ PTBR | ENG ]
+  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeicarofr/)
 
 <p align="left">
-  📝 Check my CV on this same repository <br>
-  📫 You can also reach me by email at: <strong>guilhermeicarofr@gmail.com</strong> <br>  
-  📷 Or you can find me on social media under: <strong>@gui_icarofr</strong>
+  📫 Me contate por email: <strong>guilhermeicarofr@gmail.com</strong> <br>  
+  📷 Ou me encontre nas redes sociais como: <strong>@gui_icarofr</strong>
 </p>
 
 
-## I code with
+## Eu desenvolvo usando
 
 <div align="center">
+  <img alt="javaspring" src="https://img.shields.io/badge/Java+Spring-FFFEEF?style=for-the-badge&logo=spring&logoColor=6cb52d" />
   <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="firebird" src="https://img.shields.io/badge/Firebird-315233?style=for-the-badge&logo=FireBird&logoColor=white" />
   <img alt="mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="prisma" src="https://img.shields.io/badge/Prisma-0c3249?style=for-the-badge&logo=Prisma&logoColor=white" />
   <img alt="docker" src="https://img.shields.io/badge/Docker-2392e6?style=for-the-badge&logo=docker&logoColor=white" />
@@ -49,7 +49,6 @@
   <img alt="next" src="https://img.shields.io/badge/NextJS-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=2e2e2e" />
   <img alt="jest" src="https://img.shields.io/badge/Jest-944058?style=for-the-badge&logo=Jest&logoColor=white" />
   <img alt="redis" src="https://img.shields.io/badge/Redis-d12b1f?style=for-the-badge&logo=redis&logoColor=white" />
-  <img alt="javaspring" src="https://img.shields.io/badge/Java+Spring-FFFEEF?style=for-the-badge&logo=spring&logoColor=6cb52d" />
   <img alt="styled" src="https://img.shields.io/badge/styled--components-e58e7d?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img alt="aws" src="https://img.shields.io/badge/AWS-f79400?style=for-the-badge&logo=amazon&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/NPM-d74b61?style=for-the-badge&logo=npm" />
@@ -57,6 +56,9 @@
   <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
+  <img alt="gitlab" src="https://img.shields.io/badge/GitLab-992015?style=for-the-badge&logo=gitlab&logoColor=white" />
+
   <img alt="eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
   <img alt="render" src="https://img.shields.io/badge/Render-ffc15d?style=for-the-badge&logo=render&logoColor=black" />
   <img alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
